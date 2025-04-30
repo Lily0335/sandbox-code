@@ -1,0 +1,10 @@
+.h1 {
+  color: blueviolet;
+}
+
+img {
+  width: 50%;
+  justify-content: space-between;
+  height: 300px;
+  margin-right: 30px;
+}
